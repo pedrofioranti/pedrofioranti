@@ -10,8 +10,7 @@ Always learning — focused on writing clean, efficient and scalable code
 ## 🚀 Technologies and Tools
 
 ![ANGULAR](https://img.shields.io/badge/angular-000000?style=for-the-badge&logo=angular&logoColor=white)
-![VUE](https://img.shields.io/badge/vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![VUE](https://img.shields.io/badge/vue-000000?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css5&logoColor=white)
